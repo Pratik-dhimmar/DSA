@@ -381,7 +381,4 @@ def hollow_dimond(n):
 #         if (rs == reverse(rs))
 # left_pascel_triangle("ABABADC")
 
-s = "abs"
-k = "".join(reversed(s))
-p = s[]
-print(k)
+
